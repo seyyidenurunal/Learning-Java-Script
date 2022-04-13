@@ -24,7 +24,7 @@ console.log(sayi);
 
   console.log(a + b + c);
 
-// + string ifadelerde birleştirme, int ifadelerde toplama işlemi yapar.
+// + operatörü string ifadelerde birleştirme, int ifadelerde toplama işlemi yapar.
 
 var isim = "Ali"; 
 
