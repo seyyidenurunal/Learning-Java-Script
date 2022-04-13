@@ -23,3 +23,10 @@ console.log(sayi);
     c = 1;
 
   console.log(a + b + c);
+
+// + string ifadelerde birleştirme, int ifadelerde toplama işlemi yapar.
+
+var isim = "Ali"; 
+
+console.log(isim + "Çelik"); 
+//Büyük küçük harf duyarlılığından dolayı, eğer tanımlanan değişkenden farklı olarak İsim'i yazdırmaya çalışırsak hata alırız.
