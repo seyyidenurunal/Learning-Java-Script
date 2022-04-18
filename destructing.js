@@ -2,7 +2,12 @@ const degerler = {
     a : 1,
     b : 2,
     c : 3,
+    e : {
+        f : 5,
+    }
 };
+
+const {e : { f : g}} = degerler; //e değeri altındaki f değerini değişkene aatayıp adını g olarak değiştirdik.
 
 //Değerleri farklı bir değişkene atamak istediğimizde ES6'dan önce şöyle yapıyorduk.
 
