@@ -9,4 +9,3 @@ const server = http.createServer((request, response) => { //İstek ve cevapları
 
 server.listen(3000);
 
-//Her eklemede komut isteminden dosyayı çalıştırmamız gerekiyor.
